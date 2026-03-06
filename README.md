@@ -2,8 +2,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=T34-active&color=ff69b4)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=T34-active&show_icons=true&theme=omni&count_private=true&text_color=ff69b4&icon_color=ff69b4&hide_title=true&include_all_commits=true" alt="Anurag's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T34-active&layout=compact&theme=omni&text_color=ff69b4" alt="Top Langs" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T34-active&show_icons=true&theme=rose_pine&text_color=ff69b4&icon_color=ff69b4&border_color=ff69b4" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=T34-active&theme=pink" width="45%" />
 </p>
 
 <picture>
